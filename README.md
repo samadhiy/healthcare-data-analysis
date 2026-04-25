@@ -13,46 +13,59 @@ This project was developed as part of the CCS3309 Big Data module. It focuses on
 The project demonstrates how data can be transformed into valuable information to support better understanding and decision-making.
 
 🎯 Objectives
-Perform Exploratory Data Analysis (EDA)
-Identify trends and patterns in healthcare data
-Apply data visualization techniques to interpret results
+* Perform Exploratory Data Analysis (EDA)
+* Identify trends and patterns in healthcare data
+* Apply data visualization techniques to interpret results
+
+
 🛠️ Technologies Used
+
 🐍 Python
 📓 Jupyter Notebook
 📊 Pandas
 🔢 NumPy
 📈 Matplotlib
 🎨 Seaborn
+
+
 📂 Repository Contents
+
 22UG2_0013_Visualization.ipynb → Jupyter Notebook with full analysis
-processed_healthcare_data.csv → Dataset used for the project
+processed_healthcare_data(1).csv → Dataset used for the project
+
 👩‍💻 My Contribution
 
 I was responsible for the data visualization and EDA part of the project.
 
-Developed visualizations using Matplotlib and Seaborn
-Analyzed data distributions and relationships
-Generated insights from healthcare data
-Presented findings in a clear and structured format
+* Developed visualizations using Matplotlib and Seaborn
+* Analyzed data distributions and relationships
+* Generated insights from healthcare data
+* Presented findings in a clear and structured format
+
+
 📊 Project Scope
 
 This project includes:
 
-Data preprocessing
-Exploratory data analysis
-Visualization-based insight generation
+* Data preprocessing
+* Exploratory data analysis
+* Visualization-based insight generation
+
 👥 Team Work
 
 This was a group project where different members contributed to:
 
-Data collection
-Data processing
-Analysis
-Visualization (my role)
+* Data collection
+* Data processing
+* Analysis
+* Visualization (my role)
+
 📚 Future Improvements
-Extend analysis with machine learning models
-Use larger and more complex datasets
-Improve feature engineering techniques
+
+* Extend analysis with machine learning models
+* Use larger and more complex datasets
+* Improve feature engineering techniques
+
 📎 Author
 
 Samadhi Jayasundara
