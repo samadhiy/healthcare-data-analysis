@@ -30,8 +30,10 @@ The project demonstrates how data can be transformed into valuable information t
 
 📂 Repository Contents
 
-22UG2_0013_Visualization.ipynb → Jupyter Notebook with full analysis
-processed_healthcare_data(1).csv → Dataset used for the project
+(22UG2_0013_Visualization.ipynb) → [Jupyter Notebook with full analysis]
+
+(processed_healthcare_data(1).csv) → [Dataset used for the project]
+
 
 👩‍💻 My Contribution
 
