@@ -1,5 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=samadhiy\&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/samadhiy?label=Followers\&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=samadhiy&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/samadhiy?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/samadhiy/healthcare-data-analysis?style=social)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/samadhiy/healthcare-data-analysis)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/samadhiy/healthcare-data-analysis)
@@ -21,21 +21,30 @@ The project demonstrates how data can be transformed into valuable information t
 🛠️ Technologies Used
 
 🐍 Python
+
 📓 Jupyter Notebook
+
 📊 Pandas
+
 🔢 NumPy
+
 📈 Matplotlib
+
 🎨 Seaborn
 
 
 📂 Repository Contents
 
-(22UG2_0013_Visualization.ipynb) → [Jupyter Notebook with full analysis]
 
-(processed_healthcare_data(1).csv) → [Dataset used for the project]
+📂 Repository Contents
+
+- [Jupyter Notebook](./22UG2_0013_Visualization.ipynb)
+
+- [Dataset](./processed_healthcare_data(1).csv)
 
 
 👩‍💻 My Contribution
+
 
 I was responsible for the data visualization and EDA part of the project.
 
