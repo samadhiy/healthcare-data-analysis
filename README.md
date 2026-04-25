@@ -33,8 +33,6 @@ The project demonstrates how data can be transformed into valuable information t
 🎨 Seaborn
 
 
-📂 Repository Contents
-
 
 📂 Repository Contents
 
@@ -80,4 +78,5 @@ This was a group project where different members contributed to:
 📎 Author
 
 Samadhi Jayasundara
+
 Role: Data Visualization & EDA
